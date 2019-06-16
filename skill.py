@@ -1,4 +1,4 @@
-import pyttsx
+import pyttsx3
 import random
 
 
@@ -15,7 +15,7 @@ class Skill:
 			self.output_choices.append(choice)
 
 	def reply(self):
-		engine = pyttsx.init()
+		engine = pyttsx3.init()
 
 		random_reply = random.choice(self.output_choices)
 		engine.say(random_reply)
