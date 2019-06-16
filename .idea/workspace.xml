@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1635539-cfea-489c-94e2-db8b4ce2f3cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Dallela.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Dallela.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skill.py" beforeDir="false" afterPath="$PROJECT_DIR$/skill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,33 +56,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Age" value="1" />
-          <entry key="Greetings" value="2" />
+          <entry key="Age" value="3" />
+          <entry key="Greetings" value="3" />
           <entry key="HelloWorld" value="2" />
           <entry key="Joke" value="3" />
-          <entry key="Personal" value="2" />
+          <entry key="Personal" value="3" />
           <entry key="Similars" value="2" />
           <entry key="Skill1" value="1" />
+          <entry key="ipynb" value="1" />
           <entry key="py" value="10" />
           <entry key="shorts" value="3" />
+          <entry key="wav" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="IPNB" value="1" />
+          <entry key="PLAIN_TEXT" value="21" />
           <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Age" value="63" />
+          <entry key="Age" value="117" />
           <entry key="Greetings" value="110" />
           <entry key="Joke" value="96" />
           <entry key="Personal" value="158" />
           <entry key="Similars" value="87" />
           <entry key="Skill1" value="97" />
           <entry key="dummy" value="8" />
-          <entry key="py" value="2061" />
+          <entry key="py" value="2726" />
           <entry key="shorts" value="733" />
           <entry key="txt" value="5" />
           <entry key="wake_up_words" value="1" />
@@ -92,19 +93,19 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1358" />
-          <entry key="Python" value="2061" />
+          <entry key="PLAIN_TEXT" value="1412" />
+          <entry key="Python" value="2726" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1406">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            <state relative-caret-position="486">
+              <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -112,11 +113,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skill.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1560705481724" expanded="true" signature="288:770" ph="..." />
+                <marker date="1560705481724" expanded="true" signature="786:789" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trvial_Skills/Questions/Age">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Greetings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Age">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Trvial_Skills/Questions/Personal">
+          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="7" selection-end-column="13" />
+              <caret column="50" selection-start-column="50" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -127,8 +169,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Skill</find>
+      <find>pyttsx</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,7 +190,6 @@
         <option value="$PROJECT_DIR$/audio.py" />
         <option value="$PROJECT_DIR$/speaking.py" />
         <option value="$PROJECT_DIR$/wake_up_words.txt" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/Skill1" />
         <option value="$PROJECT_DIR$/Skills/Answers/Similars" />
         <option value="$PROJECT_DIR$/Skills/Answers/Greetings" />
@@ -154,7 +202,10 @@
         <option value="$PROJECT_DIR$/Trvial_Skills/Answers/shorts" />
         <option value="$PROJECT_DIR$/Trvial_Skills/Questions/Greetings" />
         <option value="$PROJECT_DIR$/Trvial_Skills/Questions/Personal" />
+        <option value="$PROJECT_DIR$/quick.ipynb" />
+        <option value="$PROJECT_DIR$/Trvial_Skills/Questions/Age" />
         <option value="$PROJECT_DIR$/skill.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -173,6 +224,23 @@
             <path>
               <item name="BHGE" type="b2602c69:ProjectViewProjectNode" />
               <item name="BHGE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BHGE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BHGE" type="462c0819:PsiDirectoryNode" />
+              <item name="Trvial_Skills" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BHGE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BHGE" type="462c0819:PsiDirectoryNode" />
+              <item name="Trvial_Skills" type="462c0819:PsiDirectoryNode" />
+              <item name="Answers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BHGE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BHGE" type="462c0819:PsiDirectoryNode" />
+              <item name="Trvial_Skills" type="462c0819:PsiDirectoryNode" />
+              <item name="Questions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BHGE" type="b2602c69:ProjectViewProjectNode" />
@@ -304,6 +372,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15429173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -383,13 +452,6 @@
     <entry file="file://$PROJECT_DIR$/Trvial_Skills/Questions/shorts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Questions/Personal">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" selection-start-column="50" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Personal">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -401,20 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Greetings">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Age">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -459,20 +507,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/beep.wav">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quick.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Greetings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Answers/Age">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Questions/Personal">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skill.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="7" selection-end-column="13" />
+        <state relative-caret-position="143">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1560705481724" expanded="true" signature="288:770" ph="..." />
+            <marker date="1560705481724" expanded="true" signature="786:789" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trvial_Skills/Questions/Age">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="81" column="28" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

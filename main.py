@@ -43,6 +43,7 @@ def look_for_trigger():
     if not (not_wakeup_word):
         playsound('beep.wav')
 
+
 def start_listening():
     r = sr.Recognizer()
     with sr.Microphone() as source:
@@ -69,8 +70,7 @@ def start_replying(audio_text):
 
 	if not found_reply:
 		print('no skill found')
-		not_understood_skill = skill.Skill(['',''],['what did you just say?','I did not get that'])
-		not_understood_skill.reply()
+
 
 
 
@@ -79,12 +79,15 @@ def start_replying(audio_text):
 	Main code
 """
 
-greeting_skill = skill.Skill(['hello', 'how are you', 'what\'s going on'],['oh, hi there', 'whats up!', 'hi',])
-skills.append(greeting_skill)
+# look_for_trigger()
+# audio_text = start_listening()
+# start_replying(audio_text)
 
-look_for_trigger()
-audio_text = start_listening()
-start_replying(audio_text)
+# todo: make a meathod that searches through skills to find the aprioperiate one (this is before nlp)
+skill1 = skill.TrivialSkill()
+skill1.readChoices('Age')
+skill1.reply()
+
 
 
 
