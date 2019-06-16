@@ -82,7 +82,7 @@ def start_replying(audio_text):
 greeting_skill = skill.Skill(['hello', 'how are you', 'what\'s going on'],['oh, hi there', 'whats up!', 'hi',])
 skills.append(greeting_skill)
 
-#look_for_trigger()
+look_for_trigger()
 audio_text = start_listening()
 start_replying(audio_text)
 
