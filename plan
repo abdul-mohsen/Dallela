@@ -1,0 +1,10 @@
+
+python files connected to adapt
+go over all intents and generate sql
+save all that in new class called handler
+
+trigger(), we have sound
+recognize text(), we have text
+call_adapt: call adapt engin over that text -> one of the intents x triggers
+we do: h1.function() -> call server
+

@@ -32,7 +32,6 @@ class TrivialSkill:
 
 	def reply(self):
 		engine = pyttsx3.init()
-
 		engine.say(self.chosen_answer)
 		engine.runAndWait()
 

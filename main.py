@@ -1,5 +1,6 @@
 import speech_recognition as sr
 import skill
+from Tasks.task_manager1 import  app
 from playsound import playsound
 
 
@@ -79,16 +80,22 @@ def start_replying(audio_text):
 	Main code
 """
 
+
 # look_for_trigger()
 # audio_text = start_listening()
+# handle(text)
 # start_replying(audio_text)
+
+# def handle:
+#   create new handler class
+#
 
 # todo: make a meathod that searches through skills to find the aprioperiate one (this is before nlp)
 skill1 = skill.TrivialSkill()
 skill1.readChoices('Age')
 skill1.reply()
-
-
-
+# ---------
+input_text = 'what is the closest offset well'
+app.put_in_engin(input_text)
 
 
