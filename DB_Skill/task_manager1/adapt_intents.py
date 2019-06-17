@@ -19,6 +19,7 @@ location_keywords = [
 nature_keywords = [
     'rig',
     'well',
+    'of sitwell',
     'aramco office'
 ]
 

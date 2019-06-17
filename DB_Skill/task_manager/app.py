@@ -1,6 +1,6 @@
 from adapt.engine import IntentDeterminationEngine
-from Tasks.task_manager.adapt_intents import entities, multi_regex_entities, intents
-from Tasks.task_manager import Handler
+from DB_Skill.task_manager.adapt_intents import entities, multi_regex_entities, intents
+from DB_Skill.task_manager import Handler
 
 engine = IntentDeterminationEngine()
 
