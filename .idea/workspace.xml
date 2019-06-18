@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1635539-cfea-489c-94e2-db8b4ce2f3cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AudioUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/AudioUtils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Skill/task_manager/Intents/adapt_intents.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Skill/task_manager/Intents/adapt_intents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Skill/task_manager/IntentsGrouper.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Skill/task_manager/IntentsGrouper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Skill/task_manager/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Skill/task_manager/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discussion/google_gTTS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Discussion/google_gTTS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discussion/os_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Discussion/os_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trvial_Skill/TrivialSkills.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trvial_Skill/TrivialSkills.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e1635539-cfea-489c-94e2-db8b4ce2f3cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
