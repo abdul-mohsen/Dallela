@@ -1,6 +1,6 @@
 from adapt.intent import IntentBuilder
 
-add_keywords = [ # list of key words
+add_keywords = [  # list of key words
     'create',
     'add',
     'new',
@@ -39,3 +39,4 @@ multi_regex_entities = [todo_regex_keywords]
 intents = [add_todo_intent]  # adding intent to a new list
 
 
+name = ['adapt']

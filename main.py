@@ -19,16 +19,19 @@ def find_skill(text):
 	Main code
 """
 
+#todo: do adapt processing
 
 # look_for_trigger()
 # audio_text = start_listening()
-# find_skill(audio_text)
+test_audio()
+audio_text = 'tell me a joke'
+find_skill(audio_text)
 
 
 # todo: make a method that searches through skills to find the aprioperiate one (this is before nlp)
 
 #
-input_text = 'what is the closest offset well'
-app.put_in_engin(input_text)
+# input_text = 'what is the closest offset well'
+# app.put_in_engin(input_text)
 #
 
