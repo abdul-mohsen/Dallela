@@ -1,7 +1,7 @@
 from Trvial_Skill import TrivialSkills
 from AudioUtils import *
 from Trvial_Skill import TrivialSkills
-
+from DB_Skill.task_manager1 import app
 
 def find_skill(text):
 	"""
@@ -20,15 +20,15 @@ def find_skill(text):
 """
 
 
-look_for_trigger()
-audio_text = start_listening()
-find_skill(audio_text)
+# look_for_trigger()
+# audio_text = start_listening()
+# find_skill(audio_text)
 
 
 # todo: make a method that searches through skills to find the aprioperiate one (this is before nlp)
 
 #
-# input_text = 'what is the closest offset well'
-# app.put_in_engin(input_text)
+input_text = 'what is the closest offset well'
+app.put_in_engin(input_text)
 #
 
