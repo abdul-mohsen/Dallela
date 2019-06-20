@@ -95,5 +95,3 @@ def reply(text):
     engine.say(text)
     engine.runAndWait()
 
-
-
